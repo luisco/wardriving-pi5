@@ -125,3 +125,7 @@ crontab -e
 kismetdb_to_wiglecsv --in Kismet-20241212-22-53-12-1.kismet --out Kismet-20241212-22-53-12-1.csv
 ```
 
+# Referencias
+
+- https://gist.github.com/lukeswitz/435be3ff6607a5c8a53c58e2adc4a222
+- https://github.com/6vr/Wardriving
