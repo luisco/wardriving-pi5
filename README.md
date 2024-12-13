@@ -109,3 +109,9 @@ while true; do
     check_kismet
 done
 ```
+
+# Convertir datos para Wigle
+
+```
+kismetdb_to_wiglecsv --in Kismet-20241212-22-53-12-1.kismet --out Kismet-20241212-22-53-12-1.csv
+```
